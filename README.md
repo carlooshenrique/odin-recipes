@@ -1,13 +1,13 @@
 # odin-recipes
-O projeto destinado a criação de um Site de Receitas Básicas  
+O projeto destinado a criação de um Site de Receitas Básicas.  
 
 <h3>Começando</h3>
 <hr>
 <br>
-As instruçoes abaio permitiram que voce obtenha uma copia do projeto em desenvolvimento em sua m'aquina local
+As instruçoes abaixo permitiram que voce obtenha uma copia do projeto em desenvolvimento em sua máquina local.
 <br>
-<h3>Pr'e-requisitos</h3>
-1. HTML BASICO
+<h3>Pré-requisitos</h3>
+1. HTML BASICO.
 2 . NOÇOES DE GIT E GITHUB.
 <hr>
 <h3>Autores</h3>
